@@ -1,1 +1,2 @@
 # strukturinis_programavimas_viko
+# strukturinis_programavimas_viko
