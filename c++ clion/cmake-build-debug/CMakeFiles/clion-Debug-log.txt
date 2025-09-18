@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/aiva/Documents/Missed/VIKO/strukturinis_programavimas_viko/c++ clion Select CMakeLists.txt
