@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.3">
+  <diagram name="Page-1" id="Lu9tlyUWri5dHjv5dq7k">
+    <mxGraphModel dx="1426" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pV4ThS2kfbsuleDo8cyS-1" target="pV4ThS2kfbsuleDo8cyS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-1" value="pradzia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pV4ThS2kfbsuleDo8cyS-2" target="pV4ThS2kfbsuleDo8cyS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-2" value="ivesti sk" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pV4ThS2kfbsuleDo8cyS-4" target="pV4ThS2kfbsuleDo8cyS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-4" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;desimtainis &lt;/span&gt;= &lt;span style=&quot;color:#000000;&quot;&gt;sk &lt;/span&gt;/&lt;span style=&quot;color:#1750eb;&quot;&gt;10&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;vienetainis &lt;/span&gt;= &lt;span style=&quot;color:#000000;&quot;&gt;sk &lt;/span&gt;% &lt;span style=&quot;color:#1750eb;&quot;&gt;10&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pV4ThS2kfbsuleDo8cyS-6" target="pV4ThS2kfbsuleDo8cyS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-6" value="isvesti&amp;nbsp;&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;desimtainis&lt;/span&gt;+&lt;span style=&quot;color:#000000;&quot;&gt;vienetainis&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="550" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pV4ThS2kfbsuleDo8cyS-8" value="pabaiga" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
