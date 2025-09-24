@@ -5,6 +5,7 @@
   </component>
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
@@ -24,7 +25,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33d252b1-b122-48b9-8f88-9e0841ac7f2b" name="Changes" comment="" />
+    <list default="true" id="33d252b1-b122-48b9-8f88-9e0841ac7f2b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,11 +86,6 @@
   }
 }</component>
   <component name="RunManager" selected="C/C++ File.09-18_sesta.cpp">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="09-18_antra.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c___clion" TARGET_NAME="09-18_antra.cpp" CONFIG_NAME="09-18_antra.cpp">
       <option name="sourceFile" value="09-18_antra.cpp" />
       <method v="2">
@@ -119,11 +117,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.09-18_antra.cpp" />
       <item itemvalue="C/C++ File.09-18_ketvirta.cpp" />
       <item itemvalue="C/C++ File.09-18_penkta.cpp" />
       <item itemvalue="C/C++ File.09-18_sesta.cpp" />
       <item itemvalue="C/C++ File.09-18_trecia.cpp" />
-      <item itemvalue="C/C++ File.09-18_antra.cpp" />
     </list>
     <recent_temporary>
       <list>
@@ -144,7 +142,8 @@
       <updated>1758009860546</updated>
       <workItem from="1758009866989" duration="225000" />
       <workItem from="1758010206003" duration="674000" />
-      <workItem from="1758173750165" duration="3770000" />
+      <workItem from="1758173750165" duration="3927000" />
+      <workItem from="1758692014996" duration="81000" />
     </task>
     <servers />
   </component>
