@@ -138,7 +138,7 @@ int main() {
                 cin>> pasirinktas_kiekis;
                 parduodama_valiuta = parduodama_valiuta - pasirinktas_kiekis;
                 eur = eur + pasirinktas_kiekis/pasirinkta_valiuta_kursas;
-                cout << "jus gavote " << pasirinktas_kiekis/pasirinkta_valiuta_kursas << " " << valiuta_str_1 << endl;
+                cout << "jus gavote " << pasirinktas_kiekis/pasirinkta_valiuta_kursas << " euro" << endl;
                 switch (pasirinkimas_parduoti) {
                     case 1:
                         gbp = parduodama_valiuta;
