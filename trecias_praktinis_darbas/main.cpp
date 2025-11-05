@@ -2,6 +2,7 @@
 #include <fstream>
 #include <iomanip>
 using namespace std;
+bool quit=false;
 int choice_main;
 double bilietu_skaicius, bilieto_kaina, esamas_atlyginimas[10], padidejes_atlyginimas[10], padidejimas[10], total = 0,
         total_bilietu = 0;
@@ -27,7 +28,7 @@ int ataskaita() {
     cout << setprecision(2) << fixed << "is viso parduota: " << total_bilietu << endl;
     ofstream failas("stadiono ataskaita.txt");
     failas << setprecision(2) << fixed << "is viso uzdirbta: " << total << endl;
-    failas << setprecision(2) << fixed << "is viso parduota: " << total_bilietu << endl;
+    failas << "is viso parduota: " << total_bilietu << endl;
     failas.close();
     return 0;
 }
@@ -58,18 +59,24 @@ int atlyginimai() {
 
 
 int main() {
+    while (quit == false) {
     cout << "pasirinkite programa:" << endl;
     cout << "1. Futbolo stadiono ataskaita" << endl;
     cout << "2. Atlygio skaiciuokle" << endl;
+    cout << "3. iseiti" << endl;
     cin >> choice_main;
-    switch (choice_main) {
-        case 1: {
-            ataskaita();
-            break;
-        }
-        case 2: {
-            atlyginimai();
-            break;
+        switch (choice_main) {
+            case 1: {
+                ataskaita();
+                break;
+            }
+            case 2: {
+                atlyginimai();
+                break;
+            }
+            case 3: {
+                quit = true;
+            }
         }
     }
 }
