@@ -22,7 +22,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5019c9bd-96c2-4e4c-b5f3-25f89caa4901" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/c++ clion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/c++ clion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trecias_praktinis_darbas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trecias_praktinis_darbas/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trecias_praktinis_darbas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trecias_praktinis_darbas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trecias_praktinis_darbas/.idea/trecias_praktinis_darbas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trecias_praktinis_darbas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.main.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,17 +69,28 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/aiva/Documents/Missed/VIKO/strukturinis_programavimas_viko/rugsejo 24",
+    "last_opened_file_path": "/home/aiva/Documents/Missed/VIKO/strukturinis_programavimas_viko",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/aiva/Documents/Missed/VIKO/strukturinis_programavimas_viko/main.cpp",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="strukturinis_programavimas_viko" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="antras praktinis darbas/main.cpp" />
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.main.cpp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758692100352</updated>
       <workItem from="1758692102805" duration="150000" />
+      <workItem from="1761111439939" duration="4140000" />
     </task>
     <servers />
   </component>
