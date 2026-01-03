@@ -53,13 +53,13 @@ void showMenu() {
         cout << "jūsų krepšelyje:" << endl;
         if (u == 0) cout << "TUŠČIA" << endl;
         for (int j = 0; j < u; j++) {
-            cout << menu[uzsakymas[j]].menuItem << "  x" << kiekis[j] << " " << menu[uzsakymas[j]].menuPrice << endl;
+            cout <<setw(30) << menu[uzsakymas[j]].menuItem << "  x" << kiekis[j] << " " << menu[uzsakymas[j]].menuPrice << endl;
         }
         cout << "Šiandienos meniu:" << endl;
         cout << "Iveskite meniu numeri noredami pridėti prie užsakymo" << endl;
         cout << "Kai pridėjote viską ko norit, iveskite U" << endl;
         for (int j = 0; j < i; j++) {
-            cout << j + 1 << ". " << menu[j].menuItem << "    " << menu[j].menuPrice << endl;
+            cout << j + 1 << ". " << setw(50)<< menu[j].menuItem << "    " << menu[j].menuPrice << endl;
         }
         cout << "u. Užsakyti" << endl;
         cin >> choice;

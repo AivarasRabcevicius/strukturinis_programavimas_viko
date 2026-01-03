@@ -1,0 +1,6 @@
+studento id: 1 studento taskai: -5 studento balas: 1 studento procentas: -13
+studento id: 2 studento taskai: 13 studento balas: 3 studento procentas: 33
+studento id: 3 studento taskai: 7 studento balas: 2 studento procentas: 18
+studento id: 4 studento taskai: 4 studento balas: 1 studento procentas: 10
+studento id: 5 studento taskai: 28 studento balas: 7 studento procentas: 70
+studento id: 6 studento taskai: 0 studento balas: 1 studento procentas: 0

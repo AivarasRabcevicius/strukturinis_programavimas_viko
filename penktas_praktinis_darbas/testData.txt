@@ -1,0 +1,8 @@
+T F T T T F F F T F T F F T T F T F F F
+1 F T F T F T F T F T F T F T F T F T F T
+2 F F F F F F F F F F F F F F F F F F F F
+3 T T T T T T T T T T T T T T T T T T T T
+4 F F F T T F T T F T F T F F T T F F F T
+5 F T F F T F F F T F T F F T T F T F F F
+6 - - - - - - - - - - - - - - - - - - - -
+7 T F T T T F F F T F T F F T T F T F F F
